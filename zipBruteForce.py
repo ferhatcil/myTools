@@ -1,3 +1,4 @@
+#Example python zipBruteForce.py
 import zipfile 
 filename = raw_input('zip:') 
 dictionary = raw_input('sifrelistesi:') 
