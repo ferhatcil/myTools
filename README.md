@@ -1,2 +1,2 @@
 # myTools
-İhtiyacım olan python toollarını burada topluyorum
+İhtiyacım olan toollarını burada topluyorum
