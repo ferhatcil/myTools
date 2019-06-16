@@ -1,2 +1,2 @@
-# myTools
-İhtiyacım olan toollarını burada topluyorum
+
+İhtiyacım olan araçları "tool-s" repository'si altında topluyorum.
